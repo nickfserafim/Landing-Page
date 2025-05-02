@@ -24,6 +24,7 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+
 .sobre {
     background-color: #fff;
     border-radius: 8px;
@@ -68,7 +69,8 @@ nav ul li a {
     transform: translateY(-10px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   }
-form {
+
+  form {
     background-color: white;
     padding: 20px;
     max-width: 400px;
